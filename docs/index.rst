@@ -8,10 +8,7 @@ Welcome to Read the Docs Template's documentation!
 
 Contents:
 
-.. toctree::
-   :maxdepth: 2
-   :glob:
-
+test document julianne
    *
 
 
